@@ -7,4 +7,5 @@
     <a href="/reactiveDeclaration" class="bg-slate-200 rounded-lg p-4">Reactive Declaration</a>
     <a href="/tick" class="bg-slate-200 rounded-lg p-4">Tick</a>
     <a href="/propsAndComponent" class="bg-slate-200 rounded-lg p-4">Props and Component</a>
+    <a href="/componentEvents" class="bg-slate-200 rounded-lg p-4">Component Events</a>
 </div>

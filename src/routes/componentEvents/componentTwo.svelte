@@ -4,7 +4,7 @@
 
     const dispatch = createEventDispatcher() // instantiate the eventDispatcher
 
-    let data = 0
+    let data = 1
     $: dispatch('dataChange', data) /* I use reactive declaration to monitor the changes of the value of data. Event dispatcher takes 2 
     parameter, one for the event name and one for the data to pass */
 </script>

@@ -20,5 +20,5 @@
 </div>
 <p>To use and manipulate data directly from Component, you must use <strong>{must}</strong> element</p>
 <Component bind:this={component}/>
-<button on:click={() => {component.num++}}>Increment component num value</button>
-<button on:click={component.reset}>Reset</button>
+<button on:click={() => {component.num++}} class="bg-slate-200 rounded-lg p-2 m-2">Increment component num value</button>
+<button on:click={component.reset} class="bg-slate-200 rounded-lg p-2 m-2">Reset</button>

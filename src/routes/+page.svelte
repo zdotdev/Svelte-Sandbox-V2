@@ -13,4 +13,5 @@
     <a href="/binding" class="bg-slate-200 rounded-lg p-4">Binding</a>
     <a href="/bindingGroup" class="bg-slate-200 rounded-lg p-4">Binding Group</a>
     <a href="/bindingThis" class="bg-slate-200 rounded-lg p-4">Binding This</a>
+    <a href="/componentLifeCycle" class="bg-slate-200 rounded-lg p-4">Component Life Cycle</a>
 </div>

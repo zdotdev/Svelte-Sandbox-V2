@@ -8,6 +8,6 @@
 
 </script>
 
-<div>
+<div class="p-2 m-2">
     <p>{num}</p>
 </div>

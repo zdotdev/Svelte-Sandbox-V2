@@ -13,7 +13,7 @@
 </script>
 
 <div class="flex flex-col gap-2 m-4">
-    <p>Withou using Bind:</p>    
+    <p>Without using Bind:</p>    
     <input type="text" on:input={inputVal} value = {valOne} class="outline outline-2 w-fit" />
     <p>Value = {valOne}</p>
     <button on:click={() => {valOne = "Lamaw"}} class="bg-slate-200 rounded-lg p-2 w-fit">Change Value</button>

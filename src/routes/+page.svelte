@@ -11,4 +11,6 @@
     <a href="/forwardingComponentEvents" class="bg-slate-200 rounded-lg p-4">Forwarding Component Events</a>
     <a href="/classDirective" class="bg-slate-200 rounded-lg p-4">Class:Directives</a>
     <a href="/binding" class="bg-slate-200 rounded-lg p-4">Binding</a>
+    <a href="/bindingGroup" class="bg-slate-200 rounded-lg p-4">Binding Group</a>
+    <a href="/bindingThis" class="bg-slate-200 rounded-lg p-4">Binding This</a>
 </div>

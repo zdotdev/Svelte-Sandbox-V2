@@ -16,4 +16,5 @@
     <a href="/componentLifeCycle" class="bg-slate-200 rounded-lg p-4">Component Life Cycle</a>
     <a href="/onMount" class="bg-slate-200 rounded-lg p-4">onMount</a>
     <a href="/ifStatement" class="bg-slate-200 rounded-lg p-4">If</a>
+    <a href="/eachStatement" class="bg-slate-200 rounded-lg p-4">Each</a>
 </div>

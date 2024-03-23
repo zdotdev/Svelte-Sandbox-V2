@@ -25,7 +25,10 @@
         {/each}
     </ul>
     <div>
-        <Chat friend={selectedFriend} />
+        <p class="text-lg font-bold">Chats of {selectedFriend.name}:</p>
+        {#key selectedFriend}
+            <Chat friend={selectedFriend} />
+        {/key}
     </div>
 </div>
 

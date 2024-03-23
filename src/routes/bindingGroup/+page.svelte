@@ -3,7 +3,10 @@
     let radio = 1 // radio button is two way, which means if you add default value, it will be selected by the radio button
 </script>
 <div class="m-4">
-    <p>Bind:group can only be use by the two types of input which are <strong>Radio button</strong> and <strong>Checkbox</strong>.</p>
+    <p>Bind:group can only be use by the two types of input which are <strong>Radio button</strong> and <strong>Checkbox</strong>.
+        Bind:group pass the selected value to the variable you declared. If you want to select multiple values, use array. 
+        If you want to select only one value, use a single variable.
+    </p>
     <div class="flex flex-col m-4">
         <p>Checkbox:</p>
         <label>

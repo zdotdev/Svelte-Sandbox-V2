@@ -1,0 +1,1 @@
+<p>Context is a method of passing a parent data to its children.</p>

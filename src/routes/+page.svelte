@@ -20,4 +20,5 @@
     <a href="/keyedEach" class="bg-slate-200 rounded-lg p-4">Keyed Each(!)</a>
     <a href="/await" class="bg-slate-200 rounded-lg p-4">Await</a>
     <a href="/key" class="bg-slate-200 rounded-lg p-4">Key</a>
+    <a href="/context" class="bg-slate-200 rounded-lg p-4">Context</a>
 </div>

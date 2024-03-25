@@ -12,9 +12,10 @@
 
     setContext('color', color);
 
-    function changeColor(){
+    function clickMe(){
         console.log(color.color);
     }
+    setContext('click', clickMe)
 </script>
 <div>
     <p>Communicating through content is a method of passing data from multiple context. Changing the color variable automatically is imposible, 
@@ -26,7 +27,7 @@
             <input type="color" bind:value="{color.color}">{color.color}
         </label>
         {#key color.color}
-            <Parent on:click={changeColor}/>    
+            <Parent/>    
         {/key}
     </div>
 </div>

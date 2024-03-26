@@ -1,4 +1,9 @@
 <script>
-    import {value} from './data'
+    import {value, subscribe} from './data'
+    
+    let val = value
+    subscribe(() => {
+        val = value
+    })
 </script>
-<p>Value: {value}</p>
+<p>Value: {val}</p>
